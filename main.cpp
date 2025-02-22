@@ -5,10 +5,10 @@
 #include <time.h>
 
 #define MAX_SQUARES 10
-#define SQUARE_SIZE 30
+#define SQUARE_SIZE 60
 #define CIRCLE_RADIUS 22
-#define MOVEMENT_SPEED 20
-#define FALL_SPEED 5
+#define MOVEMENT_SPEED 80
+#define FALL_SPEED 25
 #define GROUND_Y 430  // Y position of the cyan line
 
 struct Square {
